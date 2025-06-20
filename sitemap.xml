@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<!-- Home -->
+	<url>
+		<loc>https://solgrit.online</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<!-- Swap Terminal -->
+	<url>
+		<loc>https://swap.solgrit.online</loc>
+		<priority>0.9</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<!-- Tracker Portal -->
+	<url>
+		<loc>https://tracker.solgrit.online</loc>
+		<priority>0.8</priority>
+		<changefreq>monthly</changefreq>
+	</url>
+	<!-- Blog -->
+	<url>
+		<loc>https://blog.solgrit.online</loc>
+		<priority>0.7</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<!-- Airdrop Signup -->
+	<url>
+		<loc>https://solgrit.online/#airdrop</loc>
+		<priority>0.6</priority>
+		<changefreq>monthly</changefreq>
+	</url>
+	<!-- GRIT Paper (Whitepaper) -->
+	<url>
+		<loc>https://whitepaper.solgrit.online/</loc>
+		<priority>0.6</priority>
+		<changefreq>monthly</changefreq>
+	</url>
+	<!-- Terms & Transparency -->
+	<url>
+		<loc>https://docs.solgrit.online/</loc>
+		<priority>0.5</priority>
+		<changefreq>monthly</changefreq>
+	</url>
+	<!-- Affiliate Page (coming soon) -->
+	<url>
+		<loc>https://solgrit.online/affiliate</loc>
+		<priority>0.5</priority>
+		<changefreq>monthly</changefreq>
+	</url>
+	<!-- GRIT Builder App -->
+	<url>
+		<loc>https://solgrit.online/#builder</loc>
+		<priority>0.7</priority>
+		<changefreq>monthly</changefreq>
+	</url>
+</urlset>
